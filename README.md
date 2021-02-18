@@ -1,6 +1,6 @@
 # Guess Number App
 
-User sets a number. The application tries to guess this number.
+User sets a number. The application tries to guess this number.This application is suitable for both ios and android. Has a responsive design.
 
 ## Images from the application
 
