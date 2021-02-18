@@ -2,20 +2,20 @@
 
 User sets a number. The application tries to guess this number.
 
-### Images from the application
+## Images from the application
 
-## Entry
+### Entry
 
 ![entry](https://github.com/Kaan-Er/guess-number-react-native/blob/main/screens-app/1.PNG)
 
-## Set Number
+### Set Number
 
 ![entry](https://github.com/Kaan-Er/guess-number-react-native/blob/main/screens-app/2.PNG)
 
-## Guess The Number
+### Guess The Number
 
 ![entry](https://github.com/Kaan-Er/guess-number-react-native/blob/main/screens-app/3.PNG)
 
-## Game Over
+### Game Over
 
 ![entry](https://github.com/Kaan-Er/guess-number-react-native/blob/main/screens-app/4.PNG)
